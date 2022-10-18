@@ -2,7 +2,7 @@
 
 ## Assigned: Tuesday, October 18, 2022
 
-## Due: Tuesday, October
+## Due: Tuesday, 1 November 2022
 
 # Data Analysis
 
